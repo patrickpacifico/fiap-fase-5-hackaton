@@ -1,27 +1,27 @@
 # FIAP Fase 5 Hackaton
 
-MVP: threat modeling with AI using STRIDE from architecture diagrams.
+MVP: modelagem de ameaças com IA usando STRIDE a partir de diagramas de arquitetura.
 
-## Objective
-- Detect components in architecture diagrams (users, servers, databases, APIs, gateways, etc.)
-- Map components to STRIDE threats
-- Generate a report with threats and countermeasures
+## Objetivo
+- Detectar componentes em diagramas de arquitetura (usuários, servidores, bases de dados, APIs, gateways etc.)
+- Mapear componentes para ameaças STRIDE
+- Gerar relatório com ameaças e contramedidas
 
-## Scope (MVP)
-1. Computer vision model to detect components in diagrams
-2. Rule-based STRIDE mapping by component type
-3. Auto-generated report (Markdown/PDF)
+## Escopo (MVP)
+1. Modelo de visão computacional para detectar componentes em diagramas
+2. Mapeamento STRIDE baseado em regras por tipo de componente
+3. Relatório gerado automaticamente (Markdown/PDF)
 
-## Repo structure
-- notebooks/  Colab notebooks
-- data/       datasets (ignored by git)
-- reports/    generated reports
-- src/        helper scripts
+## Estrutura do repositório
+- notebooks/  Notebooks Colab
+- data/       Dataset (ignorado pelo git)
+- reports/    Relatórios gerados
+- src/        Scripts auxiliares
 
-## How to run (Colab)
-Open the notebook in `notebooks/01_mvp_stride_threat_modeling.ipynb`.
+## Como executar (Colab)
+Abra o notebook em `notebooks/01_mvp_stride_modelagem_ameacas.ipynb`.
 
-## Deliverables
-- Documentation of the flow
-- Video up to 15 minutes explaining the solution
-- GitHub repository link
+## Entregáveis
+- Documentação detalhando o fluxo de desenvolvimento da solução
+- Vídeo de até 15 minutos explicando a solução proposta
+- Link do GitHub do projeto
