@@ -1,0 +1,17 @@
+# data and artifacts
+/data/*
+!/data/.gitkeep
+/reports/*
+!/reports/.gitkeep
+/models/
+/runs/
+*.pt
+*.pth
+*.onnx
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
