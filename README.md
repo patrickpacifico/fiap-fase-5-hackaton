@@ -3,7 +3,9 @@
 MVP: modelagem de ameaças com IA usando STRIDE a partir de diagramas de arquitetura.
 
 ## Abrir no Colab
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patrickpacifico/fiap-fase-5-hackaton/blob/main/notebooks/01_mvp_stride_modelagem_ameacas.ipynb)
+<a href="https://colab.research.google.com/github/patrickpacifico/fiap-fase-5-hackaton/blob/main/notebooks/01_mvp_stride_modelagem_ameacas.ipynb" target="_blank" rel="noopener noreferrer">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
+</a>
 
 ## Objetivo
 - Detectar componentes em diagramas de arquitetura (usuários, servidores, bases de dados, APIs, gateways etc.)
